@@ -198,12 +198,6 @@ This repository includes an MIT license file together with a VEGA intellectual-p
 
 ---
 
-<div align="center">
-
-**VEGA & Logic**  
-© 2015–2025 · All rights reserved to their respective owners.
-
-</div>
 
 
 <!-- ═══════════════════════════════════════════════════════════════════════ --><!--                       Copyright | Footer                              --><!-- ═══════════════════════════════════════════════════════════════════════ --><div align="center">
